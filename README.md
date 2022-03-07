@@ -1,1 +1,2 @@
 "# hugo" 
+optimistic's blog
