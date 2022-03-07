@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Optimistic&#39;s Blog</title>
-    <link>https://zj2449233762.github.io/en/tags/</link>
+    <link>https://zj2449233762.github.io/hugo/en/tags/</link>
     <description>Recent content in Tags on Optimistic&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://zj2449233762.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://zj2449233762.github.io/hugo/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>https://zj2449233762.github.io/en/tags/css/</link>
+      <link>https://zj2449233762.github.io/hugo/en/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zj2449233762.github.io/en/tags/css/</guid>
+      <guid>https://zj2449233762.github.io/hugo/en/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://zj2449233762.github.io/en/tags/html/</link>
+      <link>https://zj2449233762.github.io/hugo/en/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zj2449233762.github.io/en/tags/html/</guid>
+      <guid>https://zj2449233762.github.io/hugo/en/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://zj2449233762.github.io/en/tags/markdown/</link>
+      <link>https://zj2449233762.github.io/hugo/en/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zj2449233762.github.io/en/tags/markdown/</guid>
+      <guid>https://zj2449233762.github.io/hugo/en/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://zj2449233762.github.io/en/tags/themes/</link>
+      <link>https://zj2449233762.github.io/hugo/en/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zj2449233762.github.io/en/tags/themes/</guid>
+      <guid>https://zj2449233762.github.io/hugo/en/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>https://zj2449233762.github.io/en/tags/emoji/</link>
+      <link>https://zj2449233762.github.io/hugo/en/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zj2449233762.github.io/en/tags/emoji/</guid>
+      <guid>https://zj2449233762.github.io/hugo/en/tags/emoji/</guid>
       <description></description>
     </item>
     

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Optimistic&#39;s Blog</title>
-    <link>https://zj2449233762.github.io/en/page/</link>
+    <link>https://zj2449233762.github.io/hugo/en/page/</link>
     <description>Recent content in Pages on Optimistic&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://zj2449233762.github.io/en/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://zj2449233762.github.io/hugo/en/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>archives</title>
-      <link>https://zj2449233762.github.io/en/archives/</link>
+      <link>https://zj2449233762.github.io/hugo/en/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zj2449233762.github.io/en/archives/</guid>
+      <guid>https://zj2449233762.github.io/hugo/en/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://zj2449233762.github.io/en/about/</link>
+      <link>https://zj2449233762.github.io/hugo/en/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zj2449233762.github.io/en/about/</guid>
+      <guid>https://zj2449233762.github.io/hugo/en/about/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
@@ -29,10 +29,10 @@ Hugo makes use of a variety of open source projects including:
     
     <item>
       <title>Links</title>
-      <link>https://zj2449233762.github.io/en/links/</link>
+      <link>https://zj2449233762.github.io/hugo/en/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zj2449233762.github.io/en/links/</guid>
+      <guid>https://zj2449233762.github.io/hugo/en/links/</guid>
       <description>To use this feature, add links section to frontmatter.
 This page&amp;rsquo;s frontmatter:
 1 2 3 4 5 6 7 8 9  links:- title:GitHubdescription:GitHub is the world&amp;#39;s largest software development platform.website:https://github.comimage:https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png- title:TypeScriptdescription:TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.website:https://www.typescriptlang.orgimage:ts-logo-128.jpg  image field accepts both local and external images.</description>
@@ -40,10 +40,10 @@ This page&amp;rsquo;s frontmatter:
     
     <item>
       <title>Search</title>
-      <link>https://zj2449233762.github.io/en/search/</link>
+      <link>https://zj2449233762.github.io/hugo/en/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zj2449233762.github.io/en/search/</guid>
+      <guid>https://zj2449233762.github.io/hugo/en/search/</guid>
       <description></description>
     </item>
     

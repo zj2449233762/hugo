@@ -2,195 +2,195 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zj2449233762.github.io/</loc>
+    <loc>https://zj2449233762.github.io/hugo/</loc>
     <lastmod>2022-03-03T01:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zj2449233762.github.io/en/"
+                href="https://zj2449233762.github.io/hugo/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zj2449233762.github.io/"
+                href="https://zj2449233762.github.io/hugo/"
                 />
   </url><url>
-    <loc>https://zj2449233762.github.io/tags/c#/</loc>
+    <loc>https://zj2449233762.github.io/hugo/tags/c#/</loc>
     <lastmod>2022-03-03T01:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://zj2449233762.github.io/categories/c#/</loc>
+    <loc>https://zj2449233762.github.io/hugo/categories/c#/</loc>
     <lastmod>2022-03-03T01:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://zj2449233762.github.io/p/c/</loc>
+    <loc>https://zj2449233762.github.io/hugo/p/c/</loc>
     <lastmod>2022-03-03T01:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://zj2449233762.github.io/categories/</loc>
-    <lastmod>2022-03-03T01:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zj2449233762.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://zj2449233762.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://zj2449233762.github.io/post/</loc>
+    <loc>https://zj2449233762.github.io/hugo/categories/</loc>
     <lastmod>2022-03-03T01:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zj2449233762.github.io/en/post/"
+                href="https://zj2449233762.github.io/hugo/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zj2449233762.github.io/post/"
+                href="https://zj2449233762.github.io/hugo/categories/"
                 />
   </url><url>
-    <loc>https://zj2449233762.github.io/tags/</loc>
+    <loc>https://zj2449233762.github.io/hugo/post/</loc>
     <lastmod>2022-03-03T01:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zj2449233762.github.io/en/tags/"
+                href="https://zj2449233762.github.io/hugo/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zj2449233762.github.io/tags/"
+                href="https://zj2449233762.github.io/hugo/post/"
                 />
   </url><url>
-    <loc>https://zj2449233762.github.io/tags/css/</loc>
+    <loc>https://zj2449233762.github.io/hugo/tags/</loc>
+    <lastmod>2022-03-03T01:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zj2449233762.github.io/hugo/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://zj2449233762.github.io/hugo/tags/"
+                />
+  </url><url>
+    <loc>https://zj2449233762.github.io/hugo/tags/css/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zj2449233762.github.io/en/tags/css/"
+                href="https://zj2449233762.github.io/hugo/en/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zj2449233762.github.io/tags/css/"
+                href="https://zj2449233762.github.io/hugo/tags/css/"
                 />
   </url><url>
-    <loc>https://zj2449233762.github.io/tags/html/</loc>
+    <loc>https://zj2449233762.github.io/hugo/tags/html/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zj2449233762.github.io/en/tags/html/"
+                href="https://zj2449233762.github.io/hugo/en/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zj2449233762.github.io/tags/html/"
+                href="https://zj2449233762.github.io/hugo/tags/html/"
                 />
   </url><url>
-    <loc>https://zj2449233762.github.io/tags/markdown/</loc>
+    <loc>https://zj2449233762.github.io/hugo/tags/markdown/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zj2449233762.github.io/en/tags/markdown/"
+                href="https://zj2449233762.github.io/hugo/en/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zj2449233762.github.io/tags/markdown/"
+                href="https://zj2449233762.github.io/hugo/tags/markdown/"
                 />
   </url><url>
-    <loc>https://zj2449233762.github.io/p/markdown%E8%AF%AD%E6%B3%95%E6%8C%87%E5%8D%97/</loc>
+    <loc>https://zj2449233762.github.io/hugo/p/markdown%E8%AF%AD%E6%B3%95%E6%8C%87%E5%8D%97/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zj2449233762.github.io/en/p/markdown-syntax-guide/"
+                href="https://zj2449233762.github.io/hugo/en/p/markdown-syntax-guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zj2449233762.github.io/p/markdown%E8%AF%AD%E6%B3%95%E6%8C%87%E5%8D%97/"
+                href="https://zj2449233762.github.io/hugo/p/markdown%E8%AF%AD%E6%B3%95%E6%8C%87%E5%8D%97/"
                 />
   </url><url>
-    <loc>https://zj2449233762.github.io/tags/%E4%B8%BB%E9%A2%98/</loc>
+    <loc>https://zj2449233762.github.io/hugo/tags/%E4%B8%BB%E9%A2%98/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zj2449233762.github.io/categories/%E4%B8%BB%E9%A2%98/</loc>
+    <loc>https://zj2449233762.github.io/hugo/categories/%E4%B8%BB%E9%A2%98/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zj2449233762.github.io/categories/%E8%AF%AD%E6%B3%95/</loc>
+    <loc>https://zj2449233762.github.io/hugo/categories/%E8%AF%AD%E6%B3%95/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zj2449233762.github.io/p/test-chinese/</loc>
+    <loc>https://zj2449233762.github.io/hugo/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zj2449233762.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://zj2449233762.github.io/hugo/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zj2449233762.github.io/page/</loc>
+    <loc>https://zj2449233762.github.io/hugo/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zj2449233762.github.io/en/page/"
+                href="https://zj2449233762.github.io/hugo/en/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zj2449233762.github.io/page/"
+                href="https://zj2449233762.github.io/hugo/page/"
                 />
   </url><url>
-    <loc>https://zj2449233762.github.io/archives/</loc>
+    <loc>https://zj2449233762.github.io/hugo/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zj2449233762.github.io/en/archives/"
+                href="https://zj2449233762.github.io/hugo/en/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zj2449233762.github.io/archives/"
+                href="https://zj2449233762.github.io/hugo/archives/"
                 />
   </url><url>
-    <loc>https://zj2449233762.github.io/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://zj2449233762.github.io/hugo/%E5%85%B3%E4%BA%8E/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zj2449233762.github.io/en/about/"
+                href="https://zj2449233762.github.io/hugo/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zj2449233762.github.io/%E5%85%B3%E4%BA%8E/"
+                href="https://zj2449233762.github.io/hugo/%E5%85%B3%E4%BA%8E/"
                 />
   </url><url>
-    <loc>https://zj2449233762.github.io/search/</loc>
+    <loc>https://zj2449233762.github.io/hugo/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zj2449233762.github.io/en/search/"
+                href="https://zj2449233762.github.io/hugo/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zj2449233762.github.io/search/"
+                href="https://zj2449233762.github.io/hugo/search/"
                 />
   </url><url>
-    <loc>https://zj2449233762.github.io/%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://zj2449233762.github.io/hugo/%E9%93%BE%E6%8E%A5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zj2449233762.github.io/en/links/"
+                href="https://zj2449233762.github.io/hugo/en/links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zj2449233762.github.io/%E9%93%BE%E6%8E%A5/"
+                href="https://zj2449233762.github.io/hugo/%E9%93%BE%E6%8E%A5/"
                 />
   </url>
 </urlset>

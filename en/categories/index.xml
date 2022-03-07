@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Optimistic&#39;s Blog</title>
-    <link>https://zj2449233762.github.io/en/categories/</link>
+    <link>https://zj2449233762.github.io/hugo/en/categories/</link>
     <description>Recent content in Categories on Optimistic&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://zj2449233762.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://zj2449233762.github.io/hugo/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>syntax</title>
-      <link>https://zj2449233762.github.io/en/categories/syntax/</link>
+      <link>https://zj2449233762.github.io/hugo/en/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zj2449233762.github.io/en/categories/syntax/</guid>
+      <guid>https://zj2449233762.github.io/hugo/en/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://zj2449233762.github.io/en/categories/themes/</link>
+      <link>https://zj2449233762.github.io/hugo/en/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zj2449233762.github.io/en/categories/themes/</guid>
+      <guid>https://zj2449233762.github.io/hugo/en/categories/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://zj2449233762.github.io/en/categories/test/</link>
+      <link>https://zj2449233762.github.io/hugo/en/categories/test/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zj2449233762.github.io/en/categories/test/</guid>
+      <guid>https://zj2449233762.github.io/hugo/en/categories/test/</guid>
       <description></description>
     </item>
     
